@@ -78,7 +78,7 @@ pip install -r requirements.txt
 python twitter_training.py --config configs/train_config.yaml
 
 # Run inference
-python twitter_inference.py --input "I love using this new AI tool!"
+python twitter_inference.py --input "I love using this new model!"
 ```
 
 *See the Jupyter notebook for a deep-dive analysis and example visualizations.*
